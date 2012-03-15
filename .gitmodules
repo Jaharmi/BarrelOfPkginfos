@@ -7,3 +7,6 @@
 [submodule "MozInfos"]
 	path = MozInfos
 	url = git@github.com:arubdesu/MozInfos.git
+[submodule "AdobInfos"]
+	path = AdobInfos
+	url = git@github.com:arubdesu/AdobInfos.git
