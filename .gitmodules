@@ -10,3 +10,6 @@
 [submodule "AdobInfos"]
 	path = AdobInfos
 	url = git@github.com:arubdesu/AdobInfos.git
+[submodule "OmniInfos"]
+	path = OmniInfos
+	url = git@github.com:arubdesu/OmniInfos.git
