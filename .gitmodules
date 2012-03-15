@@ -13,3 +13,6 @@
 [submodule "OmniInfos"]
 	path = OmniInfos
 	url = git@github.com:arubdesu/OmniInfos.git
+[submodule "tehGoogInfos"]
+	path = tehGoogInfos
+	url = git@github.com:arubdesu/tehGoogInfos.git
