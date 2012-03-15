@@ -1,0 +1,6 @@
+[submodule "AppleInfos"]
+	path = AppleInfos
+	url = git@github.com:arubdesu/AppleInfos.git
+[submodule "MSinfos"]
+	path = MSinfos
+	url = git@github.com:arubdesu/MSinfos.git
