@@ -4,3 +4,6 @@
 [submodule "MSinfos"]
 	path = MSinfos
 	url = git@github.com:arubdesu/MSinfos.git
+[submodule "MozInfos"]
+	path = MozInfos
+	url = git@github.com:arubdesu/MozInfos.git
