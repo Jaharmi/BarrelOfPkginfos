@@ -5,8 +5,11 @@
 
 ### Checkitout: 
 `git clone git://github.com/arubdesu/BarrelOfPkginfos.git`
+
 `cd BarrelOfPkginfos`
+
 `git submodule init`
+
 `git submodule update`
 
 Collaborators, to get all of the contents as they are updated, cd into the BarrelOfPkginfos folder and run: `git submodule foreach git pull`
