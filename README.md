@@ -12,4 +12,7 @@
 
 `git submodule update`
 
-Collaborators, to get all of the contents as they are updated, cd into the BarrelOfPkginfos folder and run: `git submodule foreach git pull`
+To update, and for collaborators, ensure you're cd'd into the BarrelOfPkginfos folder and run: `git submodule foreach git checkout master`
+That should only be necessary the first time. From then on, run this command to actually pull the updates:
+
+`git submodule foreach git pull`
